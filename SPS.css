@@ -292,11 +292,7 @@ input.you:checked ~ input.skynet:checked ~ .results {
   -webkit-animation-delay: 0.9s;
           animation-delay: 0.9s;
   font-family: "Mr Dafoe", cursive;
-}/*
-.game-started .main-header h1 span {
-  -webkit-animation: scale-text 1s cubic-bezier(0.46, -0.41, 0.3, 1.52) both 0.2s;
-          animation: scale-text 1s cubic-bezier(0.46, -0.41, 0.3, 1.52) both 0.2s;
-}*/
+}
 @-webkit-keyframes fade-in-left {
   0% {
     transform: translateX(-100%);
@@ -316,14 +312,4 @@ input.you:checked ~ input.skynet:checked ~ .results {
     transform: translateX(0);
     opacity: 1;
   }
-}/*
-@-webkit-keyframes scale-text {
-  100% {
-    font-size: 2rem;
-  }
 }
-@keyframes scale-text {
-  100% {
-    font-size: 2rem;
-  }
-}*/
