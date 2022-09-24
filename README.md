@@ -1,3 +1,4 @@
-# Web-Project
+Stone-Paper-Scissor Game
 
-Stone, Paper, Scissor Game
+Check it out here:
+https://sps-raksha.herokuapp.com/
